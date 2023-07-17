@@ -8,5 +8,5 @@ def index():
     return render_template("index.html")
 
 @app.route("/plan-jardin")
-def index():
+def plan():
     return render_template("plan.html")
