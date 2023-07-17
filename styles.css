@@ -1,0 +1,13 @@
+.btn-plan:link, .btn-plan:visited {
+    background-color: #1a4d10;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 10px;
+}
+
+.btn-plan:hover, .btn-plan:active {
+  background-color: rgb(11, 65, 10);
+}
